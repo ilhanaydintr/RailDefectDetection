@@ -11,11 +11,12 @@ This method concerned the detection and classification of rail surface defects. 
 - MATLAB Command Line:\>>rail_detection
 - Results <br/>
 ![image](/TestRailextraction/Result1.PNG)
-- For image enhancement please write following code.
--\>>[R,E,J]=Enhance_Image(I);<br/>
+- For image enhancement please write following code.The image enhancement function takes one image and outputs three images. These images are segmented image (R), edge extracted image (E), and high contrast image, respectively.<br/>
+\>>[R,E,J]=Enhance_Image(I);<br/>
 \>> imshow(1-R)<br/>
 \>> figure, imshow(E)<br/>
 \>> figure, imshow(1-J)<br/>
+- Results of image enhancement
 <p float="left">
   <img src="/TestEnhancement/Enhance_1.PNG" width="200" />
   <img src="/TestEnhancement/Enhanced_Image.PNG" width="200" /> 
