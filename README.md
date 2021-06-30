@@ -25,7 +25,7 @@ This method concerned the detection and classification of rail surface defects. 
 \>>main_program <br/>
 # Results
 <p float="left">
-  <img src="/Results/Mobilenetv2_feature.PNG" width="200" />
-  <img src="/Results/SqueezeNet_feature.PNG" width="200" /> 
-  <img src="/Results/confusionmatrixofall.PNG" width="200" />
+  <img src="/Results/Mobilenetv2_feature.PNG"  />
+  <img src="/Results/SqueezeNet_feature.PNG" /> 
+  <img src="/Results/confusionmatrixofall.PNG"  />
 </p><br/>
