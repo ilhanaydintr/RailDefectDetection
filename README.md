@@ -21,7 +21,7 @@ This method concerned the detection and classification of rail surface defects. 
   <img src="/TestEnhancement/Enhanced_Image.PNG" width="200" /> 
   <img src="/TestEnhancement/Segmented_Image.PNG" width="200" />
 </p><br/>
-- The following main program should be run for feature extraction, feature selection and feature merging with deep learning models. Also,the extracted features are classified by using an SVM  classifier and an accuracy rate is obtained for test data. <br/>
+- The following main program should be run for feature extraction, feature selection and feature merging with deep learning models. Also,the extracted features are classified by using an SVM  classifier and an accuracy rate is obtained for test data. The main program uses the Images folder for feature extraction. Therefore, after downloading the GitHub repo, the Images.rar folder, which is the compressed dataset, should be opened.<br/>
 >>main_program <br/>
 <h1>Results</h1>
 
