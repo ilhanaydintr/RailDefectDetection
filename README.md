@@ -16,3 +16,8 @@ This method concerned the detection and classification of rail surface defects. 
 \>> imshow(1-R)<br/>
 \>> figure, imshow(E)<br/>
 \>> figure, imshow(1-J)<br/>
+<p float="left">
+  <img src="/TestEnhancement/Enhance_1.PNG" width="200" />
+  <img src="/TestEnhancement/Enhanced_Image.PNG" width="200" /> 
+  <img src="/TestEnhancement/Segmented_Image.PNG" width="200" />
+</p>
