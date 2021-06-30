@@ -24,3 +24,8 @@ This method concerned the detection and classification of rail surface defects. 
 - The following main program should be run for feature extraction, feature selection and feature merging with deep learning models.<br/>
 \>>main_program <br/>
 # Results
+<p float="left">
+  <img src="/Results/Mobilenetv2_feature.PNG" width="200" />
+  <img src="/Results/SqueezeNet_feature.PNG" width="200" /> 
+  <img src="/Results/confusionmatrixofall.PNG" width="200" />
+</p><br/>
