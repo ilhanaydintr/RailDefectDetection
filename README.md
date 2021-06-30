@@ -20,4 +20,7 @@ This method concerned the detection and classification of rail surface defects. 
   <img src="/TestEnhancement/Enhance_1.PNG" width="200" />
   <img src="/TestEnhancement/Enhanced_Image.PNG" width="200" /> 
   <img src="/TestEnhancement/Segmented_Image.PNG" width="200" />
-</p>
+</p><br/>
+- The following main program should be run for feature extraction, feature selection and feature merging with deep learning models.<br/>
+- \>>main_program
+# Results
