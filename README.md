@@ -6,5 +6,9 @@ This method concerned the detection and classification of rail surface defects. 
 - Matlab 2018b or Higher
 - MobileNetv2
 - SqueezeNet
+# Usages
+- For rail detection following code is reguired. 
+- >> rail_detection
+- Results
 
-![image](/TestRailextraction/101517_33834630_1208_35895.jpg)
+![image](/TestRailextraction/Result1.png)
