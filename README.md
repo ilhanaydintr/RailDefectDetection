@@ -7,8 +7,9 @@ This method concerned the detection and classification of rail surface defects. 
 - MobileNetv2
 - SqueezeNet
 # Usages
-- For rail detection following code is reguired. 
-- >> rail_detection
+- For rail detection following code is required. 
+- MATLAB Command Line:rail_detection
 - Results
-
-![image](/TestRailextraction/Result1.png)
+![image](/TestRailextraction/Result1.PNG)
+- For image enhancement please write following code.
+-
