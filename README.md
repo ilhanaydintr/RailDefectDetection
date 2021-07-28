@@ -34,3 +34,6 @@ This method concerned the detection and classification of rail surface defects. 
   <h2>Confusion Matrices</h2>
   <img src="/Results/confusionmatrixofall.PNG"  />
 </p><br/>
+<p>Citation: Aydin, I., Akin, E., & Karakose, M. (2021). Defect classification based on deep features for railway tracks in sustainable transportation. Applied Soft Computing, 107706.
+  
+  </p>
